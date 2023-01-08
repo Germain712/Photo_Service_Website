@@ -10,7 +10,7 @@
 
 - If you hover over the social media icons in the header's navigation bar at the top right of the webpage you should see the labels pop up.
 
-## ![Image Link] (images/PSWNavIcons.png)
+![Image Link] (/images/PSWNavIcons.png)
 
 - You can click on the `Portraits`, `Cityscapes` & `Nature` images, and they will pop out to a larger size.
 
