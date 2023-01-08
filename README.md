@@ -28,7 +28,7 @@
 
 ---
 
-- In the contact section, if you click where is says `Choose a date you need me forr...`, the date picker will appear so you can select a date. You can click on all the other selectors in this section and see that it is active.
+- In the contact section, if you click where is says `Choose a date you need me for...`, the date picker will appear so you can select a date. You can click on all the other selectors in this section and see that it is active.
 
 ![Alt text](images/PSWContactSection.png)
 
